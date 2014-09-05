@@ -42,10 +42,9 @@
 </ul>
 </li>
 <li>Co-Facilitator: 
-
 <ul>
 <li>Peter Guzman</li>
-<li>Email: <a href="mailto:pguzman%40cs.utexas.edu">pguzman%40cs.utexas.edu</a>
+<li>Email: <a href="mailto:pguzman@cs.utexas.edu">pguzman@cs.utexas.edu</a>
 </li>
 </ul>
 </li>
